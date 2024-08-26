@@ -1,3 +1,6 @@
 apples
 berries
 cherries
+grapes
+pears
+plums
