@@ -1,4 +1,5 @@
 cow
 giraffe
 dolphin
+kangaroo
 frog
